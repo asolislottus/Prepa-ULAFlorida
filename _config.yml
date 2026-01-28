@@ -1,0 +1,9 @@
+title: "BACH: ULA Florida"
+description: "Avisos y recordatorios"
+theme: minima
+
+url: "https://techlottus.github.io"
+baseurl: "/Bach-ULAFlorida"
+
+plugins:
+  - jekyll-feed
